@@ -1,5 +1,5 @@
 This is my first git file
 QA is important!
 New feature for testing
-i need help
-now
+I get help)
+
